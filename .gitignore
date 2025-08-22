@@ -9,7 +9,7 @@ env/
 
 # Archivos de entorno (claves y secretos)
 .env
-.env.*
+.env.local
 
 # Base de datos SQLite (local, no subir a GitHub)
 db.sqlite3
