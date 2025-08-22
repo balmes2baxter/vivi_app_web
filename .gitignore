@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entorno virtual
+venv/
+env/
+
+# Archivos de entorno (claves y secretos)
+.env
+.env.*
+
+# Base de datos SQLite (local, no subir a GitHub)
+db.sqlite3
+
+# Archivos estáticos y de media
+/staticfiles/
+/media/
+
+# Archivos de logs
+*.log
+
+# Configuración de editor/IDE
+.vscode/
+.idea/
+*.swp
