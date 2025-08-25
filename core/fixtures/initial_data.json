@@ -1,0 +1,32 @@
+[
+    {
+        "model": "core.plan",
+        "pk": 1,
+        "fields": {
+            "nombre": "Mensual",
+            "descripcion": "Acceso ilimitado por 30 días",
+            "precio": "50000.00",
+            "duracion_dias": 30
+        }
+    },
+    {
+        "model": "core.plan",
+        "pk": 2,
+        "fields": {
+            "nombre": "Trimestral",
+            "descripcion": "Acceso ilimitado por 90 días",
+            "precio": "120000.00",
+            "duracion_dias": 90
+        }
+    },
+    {
+        "model": "core.plan",
+        "pk": 3,
+        "fields": {
+            "nombre": "Anual",
+            "descripcion": "Acceso ilimitado por 365 días",
+            "precio": "400000.00",
+            "duracion_dias": 365
+        }
+    }
+]
